@@ -6,5 +6,5 @@ This project is a page that predicts if you will get the H1B visa approved based
 
 This is what I did (more details on the [page](http://h1b-visa.herokuapp.com/)): After cleaning the dataset, I used a Gradient Boosting model, then selected the top six features using permutation feature importance, and finally, I explained the predictions using Shap values.
 
-<img src="https://github.com/ArmandoSep/H1B-visa-dash-app/assets/page-screenshot.png" width="100%">
+<img src="https://github.com/ArmandoSep/H1B-visa-dash-app/raw/master/assets/page-screenshot.png" width="100%">
 
